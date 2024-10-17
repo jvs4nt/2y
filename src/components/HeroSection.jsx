@@ -85,36 +85,21 @@ const HeroSection = () => {
 
   return (
     <div className="flex flex-col items-center lg:mt-10 px-2">
-        <div className='flex mb-96 mt-48'>
-            <span className="text-transparent lg:text-7xl bg-gradient-to-r from-purple-800 to-pink-500 bg-clip-text">
-                Como tudo começou...
-            </span>
-            {/* <img className="w-30" style={{height: "140px"}} src={logo} alt="logo" />
-            <span className="text-transparent lg:text-9xl bg-gradient-to-r from-blue-500 to-blue-900 bg-clip-text">
-                LFPACK
-            </span> */}
-            {/* <img className="w-96 h-96 mb-10 logo-animated" data-aos="zoom-out" data-aos-duration="3000"  src={logo} alt="logo" /> */}
-            {/* <span className="text-transparent lg:text-9xl md:text-6xl text-6xl bg-gradient-to-r from-blue-500 to-blue-900 bg-clip-text">
-                DEV
-            </span>  */}
-        </div>
-        <h1 className="lg:text-4xl md:text-3xl tracking-wide text-center  animated-gradient-text mb-72" data-aos="zoom-in-up" data-aos-duration="1500">
-            2022...
+        <h1 className="lg:text-4xl md:text-3xl tracking-wide text-center  animated-gradient-text mt-72 mb-96" data-aos="zoom-in-up" data-aos-duration="1500">
+            Seja bem vinda aos registros do nosso namoro 💗
+        </h1>
+        <p className="lg:text-4xl md:text-3xl tracking-wide text-center  animated-gradient-text mt-72 mb-96" data-aos="zoom-in-up" data-aos-duration="1500">Vai rolando pra baixo... Eu te amo!</p>
+        <h1 className="lg:text-4xl md:text-3xl tracking-wide text-center  animated-gradient-text mb-72 mt-72" data-aos="zoom-in-up" data-aos-duration="1500">
+            Espero que goste...
+        </h1>
+        <h1 className="lg:text-4xl md:text-3xl tracking-wide text-center  animated-gradient-text mb-72 mt-72" data-aos="zoom-in-up" data-aos-duration="1500">
+            2022: O início de tudo
         </h1>
         <p className="max-w-4xl mt-10 lg:text-lg md:text-md sm:text-sm text-justify text-neutral-500 tracking-widest" data-aos="fade-up" data-aos-duration="3000">
             O ano de 2022 foi nosso principal marco, quando escolhemos um ao outro para compartilhar nossas vidas, quando resolvemos pegar uma caneta, encarar todas as nossas inseguranças e medos, e escrever uma história, como um romance acolescente que qualquer um fica bobinho assistindo na TV, ou melhor, foi quando decidimos que juntos seríamos mais fortes e que assim poderíamos enfrentar qualquer desafio. Seja lá como quiser descrever nosso 2022, mas tenho a maior certeza do mundo de que essa foi a minha melhor decisão e que foi ali que eu percebi que você é a pessoa mais incrível que eu poderia ter ao meu lado...
         </p>
         <p className="max-w-4xl mt-64 mb-96 lg:text-lg md:text-md sm:text-sm text-justify text-neutral-500 tracking-widest" data-aos="fade-up" data-aos-duration="3000">Vamos rever algumas lembranças daquele ano?</p>
 
-
-        {/* <div className="flex justify-center my-10">
-            <a href="" className="px-4 py-3 mx-3 rounded-md bg-gradient-to-r from-blue-500 to-blue-800">
-                Botao
-            </a>
-            <a href="" className="px-4 py-3 mx-3 border rounded-md">
-                Botao
-            </a>
-        </div> */}
         <div className="flex flex-col items-center justify-center mt-10 mb-96">
         <p className="max-w-4xl lg:text-lg md:text-md sm:text-sm text-justify text-neutral-500 tracking-widest" data-aos="fade-up" data-aos-duration="3000">Podemos ver aqui que você não era nada boba kkkkkkkkk, nem namorava e já deixava seu cheirinho nas minhas blusas</p>
             <div className="lg:w-1/2 w-full mx-2 my-4 border border-blue-700 rounded-lg shadow-blue-400" data-aos="fade-up" data-aos-duration="3000">
@@ -210,7 +195,7 @@ const HeroSection = () => {
         </p>
 
         <h1 className="lg:text-4xl md:text-4xl sm:text-4xl tracking-wide text-center  animated-gradient-text mt-72 mb-72" data-aos="zoom-in-up" data-aos-duration="3000">
-            2023
+            2023: Criando memórias
         </h1>
 
         <p className="max-w-4xl mt-10 mb-72 lg:text-lg md:text-md sm:text-sm text-justify text-neutral-500 tracking-widest" data-aos="fade-up" data-aos-duration="3000">
