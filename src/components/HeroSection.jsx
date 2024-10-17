@@ -184,7 +184,7 @@ const HeroSection = () => {
         </p>
 
         <p className="max-w-4xl mt-48 lg:text-lg md:text-md sm:text-sm text-justify text-neutral-500 tracking-widest" data-aos="fade-up" data-aos-duration="3000">
-            E não demorou muito pra você ir na minha casa pela primeira vez, em uma ótima oportunidade para deixar meus pais bem de olho no que estava acontecendo algo nunca visto antes, eu com uma NAMORADA kkkkkkkkkk
+            E não demorou muito pra você ir na minha casa pela primeira vez, em uma ótima oportunidade para deixar meus pais bem curiosos com algo nunca visto antes, EU com uma NAMORADA kkkkkkkkkk
         </p>
 
         <p className="max-w-4xl mt-72 mb-72 lg:text-lg md:text-md sm:text-sm text-justify text-neutral-500 tracking-widest" data-aos="fade-up" data-aos-duration="3000">
